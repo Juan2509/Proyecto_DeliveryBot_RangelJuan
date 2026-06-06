@@ -84,7 +84,13 @@ Usamos el botón execute workflow y al hablar con el bot este nos deberá de con
 
 <a href="https://ibb.co/yngvh8Ts"><img src="https://i.ibb.co/Fb8ZsBv7/image.png" alt="image" border="0"></a>
 
+### Enlace Google Sheets
 
+https://docs.google.com/spreadsheets/d/1FL3YTuzirMgNoxGMbAk8No6jPpXQdcWiYU1W7B9I9uU/edit?usp=sharing
+
+### JSON Workflow
+
+https://drive.google.com/file/d/1Ev00jChuhY03bR2eBPeX2HnuDMzXCFmu/view?usp=drive_link
 
 ### Agradecimientos:
 
